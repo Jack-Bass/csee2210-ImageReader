@@ -2,7 +2,7 @@
 
 Welcome to ImageReader!  This app was created for my CSEE 2210 class at the University of Georgia.
 That probably means that you aren't allowed to copy this code, but feel free to use it.  I am sorry 
-that it looks weird in GitHub's viewer, but all the indents are right if you look at thisin another
+that it looks weird in GitHub's viewer, but all the indents are right if you look at this in another
 program.
 
 ## What Is This Project?
