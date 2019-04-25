@@ -11,7 +11,7 @@ This project was designed to help dyslexic students with improving their reading
 Using the CameraApp class, the user can take a picture using the Raspberry Pi Camera Module,
 and it will be read to them using text-to-speech software provided by the GNUstep speech
 engine.  For our project, we bundled this software into a jar file and executed it on a
-Raspberry Pi 3 B+.  For a demonstration of the design, please see THIS YouTube video.
+Raspberry Pi 3 B+.  For a demonstration of the design, please see [THIS](https://www.youtube.com/watch?v=FEC8JTUzyAc&feature=youtu.be) YouTube video.
 
 ## How to Run
 
